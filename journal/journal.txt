@@ -1,1 +1,7 @@
-fadil
+AI USAGE Journal
+Fadil Bajwa
+fbajwa@terpmail.umd.edu
+Section 0203
+
+Week 1: This week I used to to help with some of my python exercises. I used it to help me understand how to format strings and work with booleans. For Example I got help with aligning shelf labels and normalizing IBSN numbers. I also used AI to help me link my repository. 
+
