@@ -6,3 +6,5 @@ Section 0203
 Week 1: This week I used to to help with some of my python exercises. I used it to help me understand how to format strings and work with booleans. For Example I got help with aligning shelf labels and normalizing IBSN numbers. I also used AI to help me link my repository. 
 
 Week 2: This week I used AI while working through Python exercises. It helped me double check my use of loops and conditionals, and I asked for examples when I wasn’t sure about slicing and list operations. I also used it to clean up some of my code formatting and to make quick summaries of my class notes for review.
+
+Week 3: This week I used AI to work through more advanced Python exercises, especially the ones involving lists and functions. It helped me fix errors in my swap and checkout functions by explaining why my variables weren’t defined correctly. 
