@@ -8,3 +8,5 @@ Week 1: This week I used to to help with some of my python exercises. I used it 
 Week 2: This week I used AI while working through Python exercises. It helped me double check my use of loops and conditionals, and I asked for examples when I wasn’t sure about slicing and list operations. I also used it to clean up some of my code formatting and to make quick summaries of my class notes for review.
 
 Week 3: This week I used AI to work through more advanced Python exercises, especially the ones involving lists and functions. It helped me fix errors in my swap and checkout functions by explaining why my variables weren’t defined correctly. 
+
+Week 4: This week I used AI to help me figure out question 10. I typed in my code for question 10 but I was constantly getting an error. After a little while of trying to change my code and get it to work it still wasn't working so I used AI to see what was going wrong. It turns out that my code was right, but the paremeter for the question was wrong. So i changed the parameter in the question and re-ran the question and it ended up working. 
