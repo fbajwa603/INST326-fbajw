@@ -12,3 +12,5 @@ Week 3: This week I used AI to work through more advanced Python exercises, espe
 Week 4: This week I used AI to help me figure out question 10. I typed in my code for question 10 but I was constantly getting an error. After a little while of trying to change my code and get it to work it still wasn't working so I used AI to see what was going wrong. It turns out that my code was right, but the paremeter for the question was wrong. So i changed the parameter in the question and re-ran the question and it ended up working. 
 
 Week 5: This week I used AI to help me fill in missing parts of exercises such as MembershipPolicy, Loan, BookCopy, and Settings. I also used AI to double-check my work by showing my screenshots and asking if my code output was correct. This was helpful because it confirmed I understood each exercise and applied best practices.
+
+Week 6: This week I used Ai to help me write and debug codes for classes like Book, Member, LoanPolicy, and Library. I also used it to understand error messages and fix problems with imports and identation. 
