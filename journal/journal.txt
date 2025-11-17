@@ -18,3 +18,4 @@ Week 6: This week I used Ai to help me write and debug codes for classes like Bo
 Week 7: This week I used AI to help me e write and fix code for error handling, file reading, and unit testing. I also used it to understand why certain coding practices are better, like not using broad exceptions.
 
 Week 8: This week I used AI to help me understand how to use classes and inheritance in Python for a library system. It guided me in building different book types like printed, digital, and audio books, and showed how they work together. AI also made it easier to check that my code worked the right way.
+
