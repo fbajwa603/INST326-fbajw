@@ -20,3 +20,5 @@ Week 7: This week I used AI to help me e write and fix code for error handling, 
 Week 8: This week I used AI to help me understand how to use classes and inheritance in Python for a library system. It guided me in building different book types like printed, digital, and audio books, and showed how they work together. AI also made it easier to check that my code worked the right way.
 
 Week 9: This week I used AI to help me understand the abstract class concepts and fill in parts of the assignment that involved inheritance, virtual subclasses, and polymorphism. It helped me rewrite code in cleaner ways, fix errors, and verify that my end-to-end examples followed the LibraryItem abstract contract.
+
+Week 10: This week I used AI to help me understand the assignment by giving me quick examples and explaining concepts in simple terms. It also helped me test my functions and understand how certain features work like immutability
