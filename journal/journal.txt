@@ -22,4 +22,5 @@ Week 8: This week I used AI to help me understand how to use classes and inherit
 Week 9: This week I used AI to help me understand the abstract class concepts and fill in parts of the assignment that involved inheritance, virtual subclasses, and polymorphism. It helped me rewrite code in cleaner ways, fix errors, and verify that my end-to-end examples followed the LibraryItem abstract contract.
 
 Week 10: This week I used AI to help me understand the assignment by giving me quick examples and explaining concepts in simple terms. It also helped me test my functions and understand how certain features work like immutability
+
 Week 12: This week I used AI to help me deub and learning aid while working on the project. AI helped me identify why my unit tests were failing, especially with Python import errors and class constructor issues
